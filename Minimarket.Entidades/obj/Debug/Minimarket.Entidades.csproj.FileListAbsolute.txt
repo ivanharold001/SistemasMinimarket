@@ -1,0 +1,6 @@
+C:\Users\ivanh\Desktop\SistemaMinimarket\SistemasMinimarket\Minimarket.Entidades\bin\Debug\Minimarket.Entidades.dll
+C:\Users\ivanh\Desktop\SistemaMinimarket\SistemasMinimarket\Minimarket.Entidades\bin\Debug\Minimarket.Entidades.pdb
+C:\Users\ivanh\Desktop\SistemaMinimarket\SistemasMinimarket\Minimarket.Entidades\obj\Debug\Minimarket.Entidades.csproj.AssemblyReference.cache
+C:\Users\ivanh\Desktop\SistemaMinimarket\SistemasMinimarket\Minimarket.Entidades\obj\Debug\Minimarket.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ivanh\Desktop\SistemaMinimarket\SistemasMinimarket\Minimarket.Entidades\obj\Debug\Minimarket.Entidades.dll
+C:\Users\ivanh\Desktop\SistemaMinimarket\SistemasMinimarket\Minimarket.Entidades\obj\Debug\Minimarket.Entidades.pdb

@@ -1,0 +1,11 @@
+C:\Users\ivanh\Desktop\SistemaMinimarket\SistemasMinimarket\Minimarket.Negocio\bin\Debug\Minimarket.Negocio.dll
+C:\Users\ivanh\Desktop\SistemaMinimarket\SistemasMinimarket\Minimarket.Negocio\bin\Debug\Minimarket.Negocio.pdb
+C:\Users\ivanh\Desktop\SistemaMinimarket\SistemasMinimarket\Minimarket.Negocio\bin\Debug\Minimarket.Datos.dll
+C:\Users\ivanh\Desktop\SistemaMinimarket\SistemasMinimarket\Minimarket.Negocio\bin\Debug\Minimarket.Entidades.dll
+C:\Users\ivanh\Desktop\SistemaMinimarket\SistemasMinimarket\Minimarket.Negocio\bin\Debug\Minimarket.Datos.pdb
+C:\Users\ivanh\Desktop\SistemaMinimarket\SistemasMinimarket\Minimarket.Negocio\bin\Debug\Minimarket.Entidades.pdb
+C:\Users\ivanh\Desktop\SistemaMinimarket\SistemasMinimarket\Minimarket.Negocio\obj\Debug\Minimarket.Negocio.csproj.AssemblyReference.cache
+C:\Users\ivanh\Desktop\SistemaMinimarket\SistemasMinimarket\Minimarket.Negocio\obj\Debug\Minimarket.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ivanh\Desktop\SistemaMinimarket\SistemasMinimarket\Minimarket.Negocio\obj\Debug\Minimarket.Negocio.csproj.CopyComplete
+C:\Users\ivanh\Desktop\SistemaMinimarket\SistemasMinimarket\Minimarket.Negocio\obj\Debug\Minimarket.Negocio.dll
+C:\Users\ivanh\Desktop\SistemaMinimarket\SistemasMinimarket\Minimarket.Negocio\obj\Debug\Minimarket.Negocio.pdb
